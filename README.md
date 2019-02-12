@@ -38,9 +38,9 @@ This syllabus is not final and may change. The order of topics will change with 
     
 ## Prerequisites:
 
-* Basic calclulus / probability / linear algebra (matrix differentiation, SVD)
+* Basic calculus / probability / linear algebra (matrix differentiation, SVD, eigenvalues, eigenvectores)
 * For labs we use Python; need familiriaty with numpy, pytorch, matplotlib
-* Some experience in DL (not the first time of learning MNIST, familiriaty with such words as BatchNorm, ResNet, Adam)
+* Some experience in DL (not the first time of learning MNIST, familiarity with such words as BatchNorm, ResNet, Adam)
 * Good, if you sometimes read fresh papers on DL research
 * Labs are possible to do on CPU, but it can take quite long to train (~1-2 days).
     
