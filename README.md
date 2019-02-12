@@ -16,7 +16,7 @@ Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjx
 
 This syllabus is not final and may change. The order of topics will change with high probability.
 
-1. **15 Feb** Introduction.
+1. **15 Feb** | Introduction.
 
 2. Statistical learning theory.
     * Formalization of learning task. PAC-learning. Empirical risk. Generalization guarantees. Finite and infinite hypothesis classes. VC-dimension. PAC-Bayes framework.
