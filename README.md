@@ -1,4 +1,4 @@
-# Theories of Deep Learning course
+# Theoretical Deep Learning course
 
 This is a GitHub page of Theories of Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
