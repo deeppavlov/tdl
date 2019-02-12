@@ -1,4 +1,4 @@
-# Theoretical Deep Learning course
+![TDL logo](/banner2.gif)
 
 This is a GitHub page of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
