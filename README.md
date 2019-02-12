@@ -8,7 +8,7 @@ This is a GitHub page of Theoretical Deep Learning course held by Neural Network
 
 **Videos** will be available.
 
-Lecture slides, homework assignments and videos will appear in this repo and will be available for everyone. However, we will check your homework only if you are a MIPT student.
+Lecture slides, homework assignments and videos will appear in this repo and will be available for everyone. However, we can guarantee that we will check your homework only if you are a MIPT student.
 
 Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjxJHIrD8IuFvfqVLPw
 
