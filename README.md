@@ -2,13 +2,13 @@
 
 This is a GitHub page of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
-Lecture slides and homework assignments will be placed in this repo.
+**Location:** Moscow Institute of Physics and Technology, Phystech.Bio building, room *TBA*
 
-Location: Moscow Institute of Physics and Technology, Phystech.Bio building, room *TBA*
+**Time:** Friday, 10:45, starting from 15th of February, 2019.
 
-Time: Friday, 10:45, starting from 15th of February, 2019.
+**Videos** will be available.
 
-Videos will be available.
+Lecture slides, homework assignments and videos will appear in this repo and will be available for everyone. However, we will check your homework only if you are a MIPT student.
 
 Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjxJHIrD8IuFvfqVLPw
 
@@ -35,6 +35,16 @@ This syllabus is not final and may change. The order of topics will change with 
 
 7. The information bottleneck method.
     * Definition. Learning phases. Critics.
+    
+## Grading:
+
+This course will contain (at least) two labs and (at least) two theoretical assignments.
+
+Preliminary grading criteria:
+
+* Labs - 20%
+* Theoretical assignments - 30%
+* Oral exam - 50%
 
 ## Course staff:
 
