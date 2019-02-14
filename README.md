@@ -39,10 +39,11 @@ This syllabus is not final and may change. The order of topics will change with 
 ## Prerequisites:
 
 * Basic calculus / probability / linear algebra (matrix differentiation, SVD, eigenvalues, eigenvectors, Hessian, Markov's inequality)
-* For labs we use Python; need familiriaty with numpy, pytorch, matplotlib
+* Labs are given as jupyter notebooks 
+* We use python3; need familiriaty with numpy, pytorch, matplotlib
 * Some experience in DL (not the first time of learning MNIST, familiarity with such words as BatchNorm, ResNet, Dropout)
 * Good, if you sometimes read fresh papers on DL research
-* Labs are possible to do on CPU, but it can take quite long to train (~1-2 days).
+* Labs are possible to do on CPU, but it can take quite a long time to train (~1-2 days).
     
 ## Grading:
 
@@ -54,8 +55,12 @@ Preliminary grading criteria:
 * Theoretical assignments - 30%
 * Oral exam - 50%
 
+Send your homeworks to tdl_course_mipt@protonmail.com
+
+E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Surname"
+
 ## Course staff:
 
 - [Eugene Golikov](https://github.com/varenick)
 
-This course is dedicated to the memory of Maksim Kretov.
+This course is dedicated to the memory of Maksim Kretov | 30.12.1986 - 13.02.2019.
