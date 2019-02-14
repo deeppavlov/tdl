@@ -18,17 +18,17 @@ This syllabus is not final and may change. The order of topics will change with 
 
 1. **15 Feb** | Introduction.
 
-2. Statistical learning theory.
-    * Formalization of learning task. PAC-learning. Empirical risk. Generalization guarantees. Finite and infinite hypothesis classes. VC-dimension. PAC-Bayes framework.
-
-3. Generalization guarantees.
-    * Covering numbers, McDiarmid’s inequality. Application of PAC-Bayesian framework. Compression framework. Examples of computing generalization guarantees. Link between generalization and loss surface properties.
-
-4. Loss surfaces of neural networks.
+2. Loss surfaces of neural networks.
     * Loss surface of linear networks. Loss surfaces of deep and shallow non-linear networks. Spin-glass model. Elimination of local minima.
 
-5. Gradient descent dynamics.
+3. Gradient descent dynamics.
     * GD almost surely does not converge to strict saddles. Convergence guarantees for noisy GD. GD dynamics on linear networks. GD dynamics on wide shallow non-linear networks. Generalization to deep nets.
+
+4. Statistical learning theory.
+    * Formalization of learning task. PAC-learning. Empirical risk. Generalization guarantees. Finite and infinite hypothesis classes. VC-dimension. PAC-Bayes framework.
+
+5. Generalization guarantees.
+    * Covering numbers, McDiarmid’s inequality. Application of PAC-Bayesian framework. Compression framework. Examples of computing generalization guarantees. Link between generalization and loss surface properties.
 
 6. Information propagation.
     * Necessary conditions of learning. Neural networks from the view of random matrix theory.
@@ -38,9 +38,9 @@ This syllabus is not final and may change. The order of topics will change with 
     
 ## Prerequisites:
 
-* Basic calculus / probability / linear algebra (matrix differentiation, SVD, eigenvalues, eigenvectores)
+* Basic calculus / probability / linear algebra (matrix differentiation, SVD, eigenvalues, eigenvectors, Hessian, Markov's inequality)
 * For labs we use Python; need familiriaty with numpy, pytorch, matplotlib
-* Some experience in DL (not the first time of learning MNIST, familiarity with such words as BatchNorm, ResNet, Adam)
+* Some experience in DL (not the first time of learning MNIST, familiarity with such words as BatchNorm, ResNet, Dropout)
 * Good, if you sometimes read fresh papers on DL research
 * Labs are possible to do on CPU, but it can take quite long to train (~1-2 days).
     
