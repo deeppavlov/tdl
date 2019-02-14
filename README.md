@@ -57,4 +57,5 @@ Preliminary grading criteria:
 ## Course staff:
 
 - [Eugene Golikov](https://github.com/varenick)
-- [Maksim Kretov](https://github.com/kretovmk)
+
+This course is dedicated to the memory of Maksim Kretov.
