@@ -16,7 +16,7 @@ Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjx
 
 This syllabus is not final and may change. The order of topics will change with high probability.
 
-1. **15 Feb** | Introduction.
+1. Introduction.
 
 2. Loss surfaces of neural networks.
     * Loss surface of linear networks. Loss surfaces of deep and shallow non-linear networks. Spin-glass model. Elimination of local minima.
@@ -59,8 +59,12 @@ Send your homeworks to tdl_course_mipt@protonmail.com
 
 E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Surname"
 
+## Homeworks:
+
+The first homework assignment will be out soon.
+
 ## Course staff:
 
 - [Eugene Golikov](https://github.com/varenick)
 
-This course is dedicated to the memory of Maksim Kretov | 30.12.1986 - 13.02.2019.
+This course is dedicated to the memory of Maksim Kretov | 30.12.1986 - 13.02.2019, without whom this course would never have been started.
