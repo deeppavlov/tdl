@@ -6,7 +6,7 @@ This is a GitHub page of Theoretical Deep Learning course held by Neural Network
 
 **Time:** Friday, 10:45, starting from 15th of February, 2019.
 
-**Videos** will be available.
+**Videos** are available [here](https://www.youtube.com/playlist?list=PLt1IfGj6-_-dMa3Ff8mwjq1yOGijJ89Wa).
 
 Lecture slides, homework assignments and videos will appear in this repo and will be available for everyone. However, we can guarantee that we will check your homework only if you are a MIPT student.
 
