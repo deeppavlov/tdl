@@ -61,6 +61,8 @@ This numbers are not final and can change slightly.
 
 The deadline for all assignments are computed as follows: "the day, when the assignments appear at this page, 23:59 Moscow time" + 3 weeks. **All deadlines are strict.**
 
+All homework assignments will appear not more often than once a week.
+
 Send your homeworks to tdl_course_mipt@protonmail.com
 
 E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Surname"
