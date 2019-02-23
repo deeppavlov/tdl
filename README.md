@@ -42,7 +42,6 @@ This syllabus is not final and may change. The order of topics will change with 
 * Labs are given as jupyter notebooks 
 * We use python3; need familiriaty with numpy, pytorch, matplotlib
 * Some experience in DL (not the first time of learning MNIST, familiarity with such words as BatchNorm, ResNet, Dropout)
-* Good, if you sometimes read fresh papers on DL research
 * Labs are possible to do on CPU, but it can take quite a long time to train (~1-2 days).
     
 ## Grading:
@@ -60,13 +59,17 @@ grade = min(10, p_{labs} * k_{labs} + p_{theory} * k_{theory} + p_{exam} * k_{ex
 
 This numbers are not final and can change slightly.
 
+The deadline for all assignments are computed as follows: "the day, when the assignments appear at this page, 23:59 Moscow time" + 3 weeks. **All deadlines are strict.**
+
 Send your homeworks to tdl_course_mipt@protonmail.com
 
 E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Surname"
 
 ## Homeworks:
 
-The first homework assignment will be out soon.
+**The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.**
+
+Theoretical assignments live [here](/hw_theory).
 
 ## Course staff:
 
