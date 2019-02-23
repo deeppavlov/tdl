@@ -47,13 +47,18 @@ This syllabus is not final and may change. The order of topics will change with 
     
 ## Grading:
 
-This course will contain (at least) two labs and (at least) two theoretical assignments.
+This course will contain (at least) two labs and (at least) three theoretical assignments. 
+There also will be an oral exam (in the form of interview) at the end of the course.
 
-Preliminary grading criteria:
+Let p_{labs} = "your points for labs" / "total possible points for labs". Define p_{theory} and p_{exam} analogously.
 
-* Labs - 20%
-* Theoretical assignments - 30%
-* Oral exam - 50%
+Your final grade will be computed as follows:
+grade = min(10, p_{labs} * k_{labs} + p_{theory} * k_{theory} + p_{exam} * k_{exam}), where the coefficents are:
+* k_{labs} = 3
+* k_{theory} = 5
+* k_{exam} = 4
+
+This numbers are not final and can change slightly.
 
 Send your homeworks to tdl_course_mipt@protonmail.com
 
@@ -67,4 +72,4 @@ The first homework assignment will be out soon.
 
 - [Eugene Golikov](https://github.com/varenick)
 
-This course is dedicated to the memory of Maksim Kretov | 30.12.1986 - 13.02.2019, without whom this course would never have been started.
+This course is dedicated to the memory of Maksim Kretov | 30.12.1986 - 13.02.2019, without whom this course would have never been created.
