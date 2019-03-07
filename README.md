@@ -16,26 +16,34 @@ Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjx
 
 This syllabus is not final and may change. The order of topics will change with high probability.
 
-1. Introduction.
+1. [**15.02.2019**](/lecture_1) Introduction. Loss landscape of linear networks.
 
-2. Loss surfaces of neural networks.
-    * Loss surface of linear networks. Loss surfaces of deep and shallow non-linear networks. Spin-glass model. Elimination of local minima.
+2. [**22.02.2019**](/lecture_2) Loss landscape of linear networks.
 
-3. Gradient descent dynamics.
-    * GD almost surely does not converge to strict saddles. Convergence guarantees for noisy GD. GD dynamics on linear networks. GD dynamics on wide shallow non-linear networks. Generalization to deep nets.
+3. [**1.03.2019**](/lecture_3) Loss landscape of linear res-nets. Loss landscape of wide, but shallow sigmoid nets.
 
-4. Statistical learning theory.
-    * Formalization of learning task. PAC-learning. Empirical risk. Generalization guarantees. Finite and infinite hypothesis classes. VC-dimension. PAC-Bayes framework.
+4. **8.03.2019** No class.
 
-5. Generalization guarantees.
-    * Covering numbers, McDiarmid’s inequality. Application of PAC-Bayesian framework. Compression framework. Examples of computing generalization guarantees. Link between generalization and loss surface properties.
+5. **15.03.2019** Loss landscape of deep and wide sigmoid nets.
 
-6. Information propagation.
-    * Necessary conditions of learning. Neural networks from the view of random matrix theory.
+6. **22.03.2019** Spin-glass model. Elimination of local minima. GD almost surely does not converge to strict saddles.
 
-7. The information bottleneck method.
-    * Definition. Learning phases. Critics.
-    
+7. **29.03.2019** Convergence guarantees for noisy GD. GD dynamics on linear networks.
+
+8. **5.04.2019** GD dynamics on wide, but shallow non-linear networks. Generalization to deep nets.
+
+9. **12.04.2019** Necessary conditions of learning.
+
+9. **19.04.2019** (Ivan Skorokodov) The information bottleneck method.
+
+10. **26.04.2019** Learning guarantees. Rademacher complexity. VC-dimension.
+
+11. **3.05.2019** Modern approaches in obtaining generalization guarantees.
+
+12. **10.05.2019** No class.
+
+13. **17.05.2019** Modern approaches in obtaining generalization guarantees.
+
 ## Prerequisites:
 
 * Basic calculus / probability / linear algebra (matrix differentiation, SVD, eigenvalues, eigenvectors, Hessian, Markov's inequality)
@@ -59,7 +67,7 @@ grade = min(10, p_{labs} * k_{labs} + p_{theory} * k_{theory} + p_{exam} * k_{ex
 
 This numbers are not final and can change slightly.
 
-The deadline for all assignments are computed as follows: "the day, when the assignments appear at this page, 23:59 Moscow time" + 3 weeks. **All deadlines are strict.**
+The deadlines for all assignments are computed as follows: "the day, when the assignments appear at this page, 23:59 Moscow time" + 3 weeks. **All deadlines are strict.**
 
 All homework assignments will appear not more often than once a week.
 
@@ -71,10 +79,14 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 **The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.**
 
+**The first lab assignment is out! Deadline: 28.03.2019 23:59 Moscow time.**
+
 Theoretical assignments live [here](/hw_theory).
+Labs live [here](/hw_lab).
 
 ## Course staff:
 
-- [Eugene Golikov](https://github.com/varenick)
+- [Eugene Golikov](https://github.com/varenick) - course admin, lectures, homeworks
+- [Ivan Skorokhodov](https://github.com/universome) - homework beta-testing, lecture about information bottleneck, off-screen comments
 
 This course is dedicated to the memory of Maksim Kretov | 30.12.1986 - 13.02.2019, without whom this course would have never been created.
