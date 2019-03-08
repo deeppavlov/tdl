@@ -10,6 +10,8 @@ This is a GitHub page of Theoretical Deep Learning course held by Neural Network
 
 Lecture slides, homework assignments and videos will appear in this repo and will be available for everyone. However, we can guarantee that we will check your homework only if you are a MIPT student.
 
+**For MIPT students:** in the case you want to take this course into your personal syllabus, the real name of the course is: "Теоретический анализ подходов глубокого обучения".
+
 Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjxJHIrD8IuFvfqVLPw
 
 ## Syllabus:
@@ -38,11 +40,15 @@ This syllabus is not final and may change. The order of topics will change with 
 
 10. **26.04.2019** Learning guarantees. Rademacher complexity. VC-dimension.
 
-11. **3.05.2019** Modern approaches in obtaining generalization guarantees.
+11. **3.05.2019** No class.
 
 12. **10.05.2019** No class.
 
 13. **17.05.2019** Modern approaches in obtaining generalization guarantees.
+
+14. **24.05.2019** Modern approaches in obtaining generalization guarantees.
+
+15. **31.05.2019** Reserve day.
 
 ## Prerequisites:
 
@@ -87,6 +93,8 @@ Labs live [here](/hw_lab).
 ## Course staff:
 
 - [Eugene Golikov](https://github.com/varenick) - course admin, lectures, homeworks
-- [Ivan Skorokhodov](https://github.com/universome) - homework beta-testing, lecture about information bottleneck, off-screen comments
+- [Ivan Skorokhodov](https://github.com/universome) - homework review and beta-test, lecture about information bottleneck, off-screen comments
 
-This course is dedicated to the memory of Maksim Kretov | 30.12.1986 - 13.02.2019, without whom this course would have never been created.
+We also thank [Mikhail Arkhipov](https://github.com/mu-arkhipov) for gingerbread operating.
+
+This course is dedicated to the memory of [Maksim Kretov](https://github.com/kretovmk) | 30.12.1986 - 13.02.2019, without whom this course would have never been created.
