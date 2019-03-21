@@ -26,7 +26,7 @@ This syllabus is not final and may change. The order of topics will change with 
 
 4. **8.03.2019** No class.
 
-5. **15.03.2019** Loss landscape of deep and wide sigmoid nets.
+5. [**15.03.2019**](/lecture_4) Loss landscape of deep and wide sigmoid nets.
 
 6. **22.03.2019** Spin-glass model. Elimination of local minima. GD almost surely does not converge to strict saddles.
 
