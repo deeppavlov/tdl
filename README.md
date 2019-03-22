@@ -28,9 +28,9 @@ This syllabus is not final and may change. The order of topics will change with 
 
 5. [**15.03.2019**](/lecture_4) Loss landscape of deep and wide sigmoid nets.
 
-6. **22.03.2019** Spin-glass model. Elimination of local minima. GD almost surely does not converge to strict saddles.
+6. [**22.03.2019**](/lecture_5) Spin-glass model. Elimination of local minima.
 
-7. **29.03.2019** Convergence guarantees for noisy GD. GD dynamics on linear networks.
+7. **29.03.2019** GD almost surely converge to local minima. Noisy GD converges to local minima for any initialization.
 
 8. **5.04.2019** GD dynamics on wide, but shallow non-linear networks. Generalization to deep nets.
 
