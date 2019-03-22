@@ -2,7 +2,7 @@
 All minima of wide-enough shallow sigmoid network are global (https://ieeexplore.ieee.org/document/410380). 
 Generalization to deep sigmoid networks (https://arxiv.org/abs/1704.08045).
 
-[Slides](/lecture_3/Loss_landscape_part2.pdf) are the same as in the previous lecture, video will be available soon.
+[Slides](/lecture_3/Loss_landscape_part2.pdf) are the same as in the previous lecture, [video](https://youtu.be/6RoZ8mPPh4Q).
 
 **Next lecture announcement:** 
 Spin-glass model (https://arxiv.org/abs/1412.0233, http://proceedings.mlr.press/v40/Choromanska15.pdf).
