@@ -30,7 +30,7 @@ This syllabus is not final and may change. The order of topics will change with 
 
 6. [**22.03.2019**](/lecture_5) Spin-glass model. Elimination of local minima.
 
-7. **29.03.2019** GD almost surely converge to local minima. Noisy GD converges to local minima for any initialization.
+7. **29.03.2019** GD almost surely converges to local minima. Noisy GD converges to local minima for any initialization.
 
 8. **5.04.2019** GD dynamics on wide, but shallow non-linear networks. Generalization to deep nets.
 
@@ -83,9 +83,11 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 ## Homeworks:
 
-**The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.**
+~~The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.~~
 
 **The first lab assignment is out! Deadline: 28.03.2019 23:59 Moscow time.**
+
+**The second theoretical assignment is out! Deadline: 16.04.2019 23:59 Moscow time.**
 
 Theoretical assignments live [here](/hw_theory).
 Labs live [here](/hw_lab).
