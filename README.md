@@ -85,7 +85,7 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 ~~The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.~~
 
-**The first lab assignment is out! Deadline: 28.03.2019 23:59 Moscow time.**
+**The first lab assignment is out! Deadline: ~~28.03.2019~~ 30.03.2019 23:59 Moscow time.**
 
 **The second theoretical assignment is out! Deadline: 16.04.2019 23:59 Moscow time.**
 
