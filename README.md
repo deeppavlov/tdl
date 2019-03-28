@@ -30,25 +30,25 @@ This syllabus is not final and may change. The order of topics will change with 
 
 6. [**22.03.2019**](/lecture_5) Spin-glass model. Elimination of local minima.
 
-7. **29.03.2019** GD almost surely converges to local minima. Noisy GD converges to local minima for any initialization.
+7. **29.03.2019** ~~GD almost surely converges to local minima. Noisy GD converges to local minima for any initialization.~~ Cancelled.
 
-8. **5.04.2019** GD dynamics on wide, but shallow non-linear networks. Generalization to deep nets.
+8. **5.04.2019** GD almost surely converges to local minima. Noisy GD converges to local minima for any initialization.
 
-9. **12.04.2019** Necessary conditions of learning.
+9. **12.04.2019** GD dynamics on wide, but shallow non-linear networks. Generalization to deep nets.
 
-9. **19.04.2019** (Ivan Skorokodov) The information bottleneck method.
+10. **19.04.2019** Necessary conditions of learning.
 
-10. **26.04.2019** Learning guarantees. Rademacher complexity. VC-dimension.
+11. **26.04.2019** (Ivan Skorokodov) The information bottleneck method.
 
-11. **3.05.2019** No class.
+12. **3.05.2019** No class.
 
-12. **10.05.2019** No class.
+13. **10.05.2019** No class.
 
-13. **17.05.2019** Modern approaches in obtaining generalization guarantees.
+14. **17.05.2019** Learning guarantees. Rademacher complexity. VC-dimension.
 
-14. **24.05.2019** Modern approaches in obtaining generalization guarantees.
+15. **24.05.2019** Modern approaches in obtaining generalization guarantees.
 
-15. **31.05.2019** Reserve day.
+16. **31.05.2019** Modern approaches in obtaining generalization guarantees.
 
 ## Prerequisites:
 
