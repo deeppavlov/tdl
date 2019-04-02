@@ -2,7 +2,7 @@
 Spin-glass model (https://arxiv.org/abs/1412.0233, http://proceedings.mlr.press/v40/Choromanska15.pdf).
 Eliminating local minima (https://arxiv.org/abs/1901.00279).
 
-[Slides](Loss_landscape_part3.pdf); video will be available soon.
+[Slides](Loss_landscape_part3.pdf); [video](https://youtu.be/S9fZrOhcJ5s).
 
 **Next lecture announcement:** 
 
