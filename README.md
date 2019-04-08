@@ -2,7 +2,7 @@
 
 This is a GitHub page of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
-**Location:** Moscow Institute of Physics and Technology, Phystech.Bio building, room 512
+**Location:** Moscow Institute of Physics and Technology, ~~Phystech.Bio building, room 512~~ New location will be announced soon.
 
 **Time:** Friday, 10:45, starting from 15th of February, 2019.
 
@@ -32,13 +32,13 @@ This syllabus is not final and may change. The order of topics will change with 
 
 7. **29.03.2019** ~~GD almost surely converges to local minima. Noisy GD converges to local minima for any initialization.~~ Cancelled.
 
-8. **5.04.2019** GD almost surely converges to local minima. Noisy GD converges to local minima for any initialization.
+8. [**5.04.2019**](/lecture_6) General convergence guarantees for GD and its variants.
 
 9. **12.04.2019** GD dynamics on wide, but shallow non-linear networks. Generalization to deep nets.
 
-10. **19.04.2019** Necessary conditions of learning.
+10. **19.04.2019** (Ivan Skorokodov) The information bottleneck method.
 
-11. **26.04.2019** (Ivan Skorokodov) The information bottleneck method.
+11. **26.04.2019** Necessary conditions of learning.
 
 12. **3.05.2019** No class.
 
@@ -85,7 +85,7 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 ~~The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.~~
 
-**The first lab assignment is out! Deadline: ~~28.03.2019~~ 30.03.2019 23:59 Moscow time.**
+~~The first lab assignment is out! Deadline: 30.03.2019 23:59 Moscow time.~~
 
 **The second theoretical assignment is out! Deadline: 16.04.2019 23:59 Moscow time.**
 
