@@ -2,7 +2,7 @@
 
 This is a GitHub page of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
-**Location:** Moscow Institute of Physics and Technology, ~~Phystech.Bio building, room 512~~ New location will be announced soon.
+**Location:** Moscow Institute of Physics and Technology, ~~Phystech.Bio building, room 512~~ ФИЗТЕХ.ЦИФРА building, room 5-19.
 
 **Time:** Friday, 10:45, starting from 15th of February, 2019.
 
