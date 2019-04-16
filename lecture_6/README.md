@@ -12,7 +12,7 @@ Perturbed GD converges to a 2nd-order stationary point (https://arxiv.org/abs/17
 
 Stochastic gradient Langevin dynamics (SGLD) converges to global minima in probability (https://core.ac.uk/download/pdf/4380833.pdf).
 
-[Slides](GD_dynamics_part1.pdf); video will be available soon.
+[Slides](GD_dynamics_part1.pdf); [video](https://youtu.be/RbJp94Ytyuo).
 
 **Next lecture announcement:** 
 
