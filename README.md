@@ -2,7 +2,7 @@
 
 This is a GitHub page of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
-**Location:** Moscow Institute of Physics and Technology, ~~Phystech.Bio building, room 512~~ ФИЗТЕХ.ЦИФРА building, room 5-6L.
+**Location:** Moscow Institute of Physics and Technology, ~~Phystech.Bio building, room 512~~ ФИЗТЕХ.ЦИФРА building, room 5-19L.
 
 **Time:** Friday, 10:45, starting from 15th of February, 2019.
 
@@ -34,21 +34,17 @@ This syllabus is not final and may change. The order of topics will change with 
 
 8. [**5.04.2019**](/lecture_6) General convergence guarantees for GD and its variants.
 
-9. **12.04.2019** GD dynamics on wide, but shallow non-linear networks. Generalization to deep nets.
+9. [**12.04.2019**](/lecture_7) GD dynamics on wide shallow ReLU nets.
 
 10. **19.04.2019** (Ivan Skorokodov) The information bottleneck method.
 
-11. **26.04.2019** Necessary conditions of learning.
+11. **26.04.2019** (Ivan Skorokodov) The information bottleneck method.
 
 12. **3.05.2019** No class.
 
 13. **10.05.2019** No class.
 
-14. **17.05.2019** Learning guarantees. Rademacher complexity. VC-dimension.
-
-15. **24.05.2019** Modern approaches in obtaining generalization guarantees.
-
-16. **31.05.2019** Modern approaches in obtaining generalization guarantees.
+14. **17.05.2019** Neural nets in the limit of infinite width.
 
 ## Prerequisites:
 
@@ -60,7 +56,7 @@ This syllabus is not final and may change. The order of topics will change with 
     
 ## Grading:
 
-This course will contain (at least) two labs and (at least) three theoretical assignments. 
+This course will contain (at least) one labs and (at least) three theoretical assignments. 
 There also will be an oral exam (in the form of interview) at the end of the course.
 
 Let p_{labs} = "your points for labs" / "total possible points for labs". Define p_{theory} and p_{exam} analogously.
@@ -87,7 +83,7 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 ~~The first lab assignment is out! Deadline: 30.03.2019 23:59 Moscow time.~~
 
-**The second theoretical assignment is out! Deadline: 16.04.2019 23:59 Moscow time.**
+~~The second theoretical assignment is out! Deadline: 16.04.2019 23:59 Moscow time.~~
 
 Theoretical assignments live [here](/hw_theory).
 Labs live [here](/hw_lab).
