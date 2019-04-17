@@ -56,15 +56,14 @@ This syllabus is not final and may change. The order of topics will change with 
     
 ## Grading:
 
-This course will contain (at least) one labs and (at least) three theoretical assignments. 
+This course will contain one lab and four theoretical assignments. 
 There also will be an oral exam (in the form of interview) at the end of the course.
 
-Let p_{labs} = "your points for labs" / "total possible points for labs". Define p_{theory} and p_{exam} analogously.
+Let p_{hw} = "your points for homeworks" / "total possible points for homeworks (excluding extra points)". Define p_{exam} analogously.
 
 Your final grade will be computed as follows:
-grade = min(10, p_{labs} * k_{labs} + p_{theory} * k_{theory} + p_{exam} * k_{exam}), where the coefficents are:
-* k_{labs} = 3
-* k_{theory} = 5
+grade = min(10, p_{hw} * k_{hw} + p_{exam} * k_{exam}), where the coefficents are:
+* k_{hw} = 8
 * k_{exam} = 4
 
 This numbers are not final and can change slightly.
