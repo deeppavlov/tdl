@@ -76,6 +76,8 @@ Send your homeworks to tdl_course_mipt@protonmail.com
 
 E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Surname"
 
+**Current grades** live [here](https://docs.google.com/spreadsheets/d/1IbpVdEjN9CduhjGVvVB4OZBGxMXdq9bw2MFk5VW0HPQ/edit?usp=sharing). 
+
 ## Homeworks:
 
 ~~The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.~~
