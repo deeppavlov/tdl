@@ -38,7 +38,7 @@ This syllabus is not final and may change. The order of topics will change with 
 
 10. [**19.04.2019**](/lecture_8) (Ivan Skorokodov) The information bottleneck method. Part 1.
 
-11. **26.04.2019** (Ivan Skorokodov) The information bottleneck method. Part 2.
+11. [**26.04.2019**](/lecture_9) (Ivan Skorokodov) The information bottleneck method. Part 2.
 
 12. **3.05.2019** No class.
 
