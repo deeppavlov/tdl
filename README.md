@@ -88,6 +88,8 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 The third theoretical assignment is out! Deadline: 13.05.2019 23:59 Moscow time.
 
+The fourth theoretical assignment is out! Deadline: 21.05.2019 23:59 Moscow time.
+
 Theoretical assignments live [here](/hw_theory).
 Labs live [here](/hw_lab).
 
