@@ -78,6 +78,8 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 **Current grades** live [here](https://docs.google.com/spreadsheets/d/1IbpVdEjN9CduhjGVvVB4OZBGxMXdq9bw2MFk5VW0HPQ/edit?usp=sharing). 
 
+**Exam** (actually, zachet with grade) will take place at zachet week. **Exam syllabus** live [here](exam_syllabus.pdf).
+
 ## Homeworks:
 
 ~~The first theoretical assignment is out! Deadline: 16.03.2019 23:59 Moscow time.~~
