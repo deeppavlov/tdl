@@ -44,7 +44,7 @@ This syllabus is not final and may change. The order of topics will change with 
 
 13. **10.05.2019** No class.
 
-14. **17.05.2019** Neural nets in the limit of infinite width.
+14. **17.05.2019** ~~Neural nets in the limit of infinite width.~~ Homework solution demonstration.
 
 ## Prerequisites:
 
