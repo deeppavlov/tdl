@@ -2,6 +2,8 @@
 
 This is a GitHub page of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
+**The second part:** there is [a second part of this course](https://github.com/deepmipt/tdl2) devoted to generalization ability. The first part of this course is **NOT** a prerequisite for the second part.
+
 **Location:** Moscow Institute of Physics and Technology, ~~Phystech.Bio building, room 512~~ ФИЗТЕХ.ЦИФРА building, ~~room 5-6~~ ~~room 5-19~~ room 5-22.
 
 **Time:** Friday, 10:45, starting from 15th of February, 2019.
